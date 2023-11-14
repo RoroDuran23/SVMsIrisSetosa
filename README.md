@@ -3,8 +3,7 @@
 ## Identifying Information
 
 * Name: Rodrigo Durán
-* Student ID: 2348338
-* Email: rduran@chapman.edu
+* Email: roduran72@gmail.com
 * Course: CPSC393
 * Assignment: Assignment 1
 
